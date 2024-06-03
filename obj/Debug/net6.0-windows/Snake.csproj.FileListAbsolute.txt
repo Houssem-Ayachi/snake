@@ -1,0 +1,17 @@
+D:\code\c#\trolling\Snake\bin\Debug\net6.0-windows\Snake.exe
+D:\code\c#\trolling\Snake\bin\Debug\net6.0-windows\Snake.deps.json
+D:\code\c#\trolling\Snake\bin\Debug\net6.0-windows\Snake.runtimeconfig.json
+D:\code\c#\trolling\Snake\bin\Debug\net6.0-windows\Snake.dll
+D:\code\c#\trolling\Snake\bin\Debug\net6.0-windows\Snake.pdb
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.csproj.AssemblyReference.cache
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.Form1.resources
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.csproj.GenerateResource.cache
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfoInputs.cache
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfo.cs
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.csproj.CoreCompileInputs.cache
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.dll
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\refint\Snake.dll
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.pdb
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
+D:\code\c#\trolling\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
